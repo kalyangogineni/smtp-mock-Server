@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS email;
+
+CREATE TABLE email (email VARCHAR (255), data VARCHAR (255), date VARCHAR(255))
